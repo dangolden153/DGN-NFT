@@ -13,3 +13,9 @@
 //user have to pay to mint an Nft
 // the owner of the contract can withdraw the eth.
 3. Dynamic SVG NFT
+
+
+
+
+
+
